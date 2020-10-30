@@ -30,5 +30,5 @@
 </p>
 
 <p align='center'>
- 📫 Contact me on Discord: Mikedeejay2#3606
+ <img src="https://img.shields.io/badge/Mikedeejay2%233606-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
 </p>
