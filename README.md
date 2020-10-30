@@ -11,14 +11,20 @@
 </p>
 
 <p align='center'>
-I like to code a lot of things, but lately I've been working on Minecraft plugin development.
-
-To-do list:
- - Late November - Finish SimpleStack
- - Late December - Finish Mikedeejay2Lib
- - Late December - Start on a new plugin
+ I like to code a lot of things, but lately I've been working on Minecraft plugin development.
 </p>
- 
- <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=Mikedeejay2&count_private=true&show_icons=true&theme=tokyonight" />
- </p>
+
+<br>
+
+<p align='center'>
+ To-do list: <br>
+  - Late November - Finish SimpleStack <br>
+  - Late December - Finish Mikedeejay2Lib <br>
+  - Late December - Start on a new plugin <br>
+</p>
+
+<br>
+
+<p align='center'>
+ <img src="https://github-readme-stats.vercel.app/api?username=Mikedeejay2&count_private=true&show_icons=true&theme=tokyonight" />
+</p>
