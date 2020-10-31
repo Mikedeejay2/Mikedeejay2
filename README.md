@@ -11,6 +11,10 @@
 </p>
 
 <p align='center'>
+ ─────────────────
+</p>
+
+<p align='center'>
  I like to code a lot of things, but lately I've been working on Minecraft plugin development.
 </p>
 
@@ -31,4 +35,8 @@
 
 <p align='center'>
  <img src="https://img.shields.io/badge/Mikedeejay2%233606-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
+</p>
+
+<p align='center'>
+ ─────────────────
 </p>
