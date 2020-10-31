@@ -22,9 +22,9 @@
 
 <p align='center'>
  To-do list: <br>
-  - Late November - Finish SimpleStack <br>
-  - Late December - Finish Mikedeejay2Lib <br>
-  - Late December - Start on a new plugin <br>
+  • Late November - Finish SimpleStack <br>
+  • Late December - Finish Mikedeejay2Lib <br>
+  • Late December - Start on a new plugin <br>
 </p>
 
 <br>
