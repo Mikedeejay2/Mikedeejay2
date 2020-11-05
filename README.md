@@ -15,13 +15,13 @@
 </p>
 
 <p align='center'>
- I like to code a lot of things, but lately I've been working on Minecraft plugin development.
+ ▸ I like to code a lot of things, but lately I've been working on Minecraft plugin development. ◂
 </p>
 
 <br>
 
 <p align='center'>
- To-do list: <br>
+ ⌇ To-do list ⌇ <br>
   • Late November - Finish SimpleStack <br>
   • Late December - Finish Mikedeejay2Lib <br>
   • Late December - Start on a new plugin <br>
