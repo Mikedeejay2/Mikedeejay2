@@ -21,10 +21,10 @@
 <br>
 
 <p align='center'>
- ⌇ To-do list ⌇ <br>
-  • Late November - Finish SimpleStack <br>
-  • Late December - Finish Mikedeejay2Lib <br>
-  • Late December - Start on a new plugin <br>
+ ⌇ About Me ⌇ <br>
+  • Programmed since the age of 9. •  <br>
+  • Like making Minecraft plugins, Minecraft mods, and games from scratch. •  <br>
+  • Proficient in Java and C++, familiar with 20+ other languages. •  <br>
 </p>
 
 <br>
