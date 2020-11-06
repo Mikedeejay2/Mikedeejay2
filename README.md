@@ -1,3 +1,7 @@
+<p align='right'>
+ <img src="https://komarev.com/ghpvc/?username=Mikedeejay2&style=flat-square" />
+</p>
+
 <p align='center'>
  <img src="https://user-images.githubusercontent.com/58639173/97764529-51f86b80-1ae5-11eb-8576-bcb53d8f9324.png" />
 </p>
@@ -18,16 +22,12 @@
  ▸ I like to code a lot of things, but lately I've been working on Minecraft plugin development. ◂
 </p>
 
-<br>
-
 <p align='center'>
  ⌇ About Me ⌇ <br>
-  • Programmed since the age of 9. •  <br>
+  • Have been programming since the age of 9. •  <br>
   • Like making Minecraft plugins, Minecraft mods, and games from scratch. •  <br>
   • Proficient in Java and C++, familiar with 20+ other languages. •  <br>
 </p>
-
-<br>
 
 <p align='center'>
  <img src="https://github-readme-stats.vercel.app/api?username=Mikedeejay2&count_private=true&show_icons=true&theme=tokyonight" />
