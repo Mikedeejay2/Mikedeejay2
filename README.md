@@ -24,9 +24,9 @@
 
 <p align='center'>
  ⌇ About Me ⌇ <br>
-  • Have been programming since the age of 9. •  <br>
-  • Like making Minecraft plugins, Minecraft mods, and games from scratch. •  <br>
-  • Proficient in Java and C++, familiar with 20+ other languages. •  <br>
+  • 💻Have been programming since the age of 9.💻 •  <br>
+  • 🧱Like making Minecraft plugins, Minecraft mods, and games from scratch.🧱 •  <br>
+  • 🌠Proficient in Java and C++, familiar with 20+ other languages.🌠 •  <br>
 </p>
 
 <p align='center'>
