@@ -34,7 +34,7 @@
 </p>
 
 <p align='center'>
- <img src="https://github-readme-stats.vercel.app/api?username=Mikedeejay2&count_private=true&show_icons=true&theme=tokyonight" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Mikedeejay2&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" />
 </p>
 
 <p align='center'>
