@@ -19,7 +19,7 @@
 </p>
 
 <p align='center'>
- ▸ I like to code a lot of things, but lately I've been working on Minecraft plugin development. ◂
+ ▸ I enjoy coding. Attempting to code every day, check contribution graph. ◂
 </p>
 
 <p align='center'>
