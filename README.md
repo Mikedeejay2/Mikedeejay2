@@ -19,13 +19,13 @@
 </p>
 
 <p align='center'>
- ▸ I enjoy coding. Attempting to code every day, check contribution graph. ◂
+ ▸ I code daily, my current main language is Java. ◂
 </p>
 
 <p align='center'>
  ⌇ About Me ⌇ <br>
-  • 💻Have been programming since the age of 9.💻 •  <br>
-  • 🧱Like making Minecraft plugins, Minecraft mods, and games from scratch.🧱 •  <br>
+  • 💻Have been programming since the age of nine.💻 •  <br>
+  • 🧱Works on applications, Minecraft plugins/mods, and video games.🧱 •  <br>
   • 🌠Proficient in Java and C++, familiar with 20+ other languages.🌠 •  <br>
 </p>
 
@@ -34,7 +34,7 @@
 </p>
 
 <p align='center'>
- <img src="https://github-readme-stats.vercel.app/api?username=Mikedeejay2&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Mikedeejay2&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align='center'>
