@@ -38,7 +38,7 @@
 </p>
 
 <p align='center'>
- <img src="https://github-readme-stats.vercel.app/api?username=Mikedeejay2&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Mikedeejay2&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide=contribs" />
 </p>
 
 <p align='center'>
