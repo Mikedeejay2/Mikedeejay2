@@ -23,7 +23,7 @@
 </p>
 
 <p align='center'>
- ▸ I'm currently focusing on advanced Java topics and reverse engineering. ◂
+ ▸ I'm currently focusing on advanced Java, reverse engineering, Web, DevOps, and Cloud. ◂
 </p>
 
 <p align='center'>
