@@ -43,7 +43,11 @@
 </p>
 
 <p align='center'>
- <img src="https://github-readme-stats.vercel.app/api?username=Mikedeejay2&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&hide=contribs" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Mikedeejay2&include_all_commits=true&count_private=true&show_icons=true&theme=prussian&hide=contribs" />
+</p>
+
+<p align='center'>
+ <img src="https://streak-stats.demolab.com/?user=Mikedeejay2&theme=prussian"/>
 </p>
 
 <p align='center'>
