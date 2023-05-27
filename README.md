@@ -3,10 +3,11 @@
 </p>
 
 <p align='center'>
- <img src="https://user-images.githubusercontent.com/58639173/97764529-51f86b80-1ae5-11eb-8576-bcb53d8f9324.png" />
+ <img src="https://github.com/Mikedeejay2/Mikedeejay2/assets/58639173/7261a4f7-f3e3-457e-8257-6cbf973e82a9" />
 </p>
+
 <h1 align='center'>
-  Hi! 👋 I'm Mikedeejay2.
+  Hi! 👋 I'm Michael.
 </h1>
 
 <p align='center'>
@@ -28,22 +29,18 @@
 </p>
 
 <p align='center'>
- ▸ I'm currently focusing on advanced Java, reverse engineering, Web, DevOps, and Cloud. ◂
+ ▸ I'm currently focusing on advanced Java, reverse engineering, web development, DevOps, and Cloud. ◂
 </p>
 
 <p align='center'>
  ⌇ About Me ⌇ <br>
-  • 💻Started learning programming 10 years ago.💻 •  <br>
-  • 🧱Works on applications, Minecraft plugins/mods, and video games.🧱 •  <br>
-  • 🌠Proficient in Java, familiar with many other languages.🌠 •  <br>
+  • 💻Gained an interest in coding/technology from a young age.💻 •  <br>
+  • 🧱Works on applications, deployments, mods, and learning new concepts.🧱 •  <br>
+  • 🌠Advanced in Java, familiar with many other languages/technologies.🌠 •  <br>
 </p>
 
 <p align='center'>
  ─────────────────
-</p>
-
-<p align='center'>
- <img src="https://github-readme-stats.vercel.app/api?username=Mikedeejay2&include_all_commits=true&count_private=true&show_icons=true&theme=prussian&hide=contribs" />
 </p>
 
 <p align='center'>
