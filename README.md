@@ -26,12 +26,12 @@
 </p>
 
 <p align='center'>
- ▸ I'm currently focusing on full-stack web development, front-end libraries, DevOps, and cloud. ◂
+ ▸ I'm currently focusing on Java, web development, GIS, and DevOps. ◂
 </p>
 
 <p align='center'>
  About Me <br>
-  • Gained an interest in coding/technology in childhood •  <br>
+  • Gained an interest in coding/technology as a child •  <br>
   • Always working on projects and learning new topics •  <br>
   • Advanced in Java, familiar with many other languages/technologies •  <br>
 </p>
